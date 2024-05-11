@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dani Pereira
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Dani Pereira
 ====================================================================================================================================
 
-Frontend Developer skilled in REACT with HTML | CSS | JAVASCRIPT | TYPESCRIPT | NEXTJS | MONGODB
+A Frontend Developer skilled in REACT with HTML | CSS | JAVASCRIPT | TYPESCRIPT | NEXTJS | MONGODB
 
 * 🌍  I'm based in Galicia (Spain)
 * 🖥️  See my portfolio at [My Portfolio](http://danipereira.es)
