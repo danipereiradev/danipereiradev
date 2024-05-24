@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Dani Pereira
 ====================================================================================================================================
-## A Frontend Developer skilled in REACT with HTML | CSS | JAVASCRIPT | TYPESCRIPT.
+## A Frontend Developer skilled in REACT with TYPESCRIPT
 
 ### ⚠ I'm doing a colossal clean-up in my portfolio and GitHub account, but please don't hesitate to ask for more projects.
 
