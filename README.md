@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Dani Pereira
 ====================================================================================================================================
-## A Frontend Developer skilled in REACT with HTML | CSS | JAVASCRIPT | TYPESCRIPT | NEXTJS | MONGODB
+## A Frontend Developer skilled in REACT with HTML | CSS | JAVASCRIPT | TYPESCRIPT.
 
 ### ⚠ I'm doing a colossal clean-up in my portfolio and GitHub account, but please don't hesitate to ask for more projects.
 
@@ -58,7 +58,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div width="100%" align="center"><a href="https://github.com/danipereiradev/feel-fit-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danipereiradev&repo=feel-fit-app&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Social Networks
-#### I'm a bit of a weirdo and I don't own an Instagram nor facebook profile. You can reach me out through my Linkedin or Portfolio.
+#### I'm a bit of a weirdo and own neither an Instagram nor a Facebook profile. You can reach me out through my Linkedin or Portfolio.
 
 <p align="left"> <a href="https://www.github.com/danipereiradev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dani-pereira-396618226" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
