@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### ⚠ I'm doing a colossal clean-up in my portfolio and GitHub account, but please don't hesitate to ask for more projects.
 
 
-* 🌍  I'm based in Galicia (Spain)
+* 🌍  I'm based in Madrid (Spain)
 * 🖥️  See my portfolio at [My Portfolio](http://danipereira.es)
 * ✉️  You can contact me at [info.danipereira@gmail.com](mailto:info.danipereira@gmail.com)
 * 🚀  I'm currently working on [Feel-fit](http://github.com/danipereiradev/feel-fit-app)
